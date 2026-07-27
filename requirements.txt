@@ -1,0 +1,8 @@
+requests
+firebase-admin
+beautifulsoup4
+python-dotenv
+cloudscraper
+flask
+pyotp
+gunicorn
